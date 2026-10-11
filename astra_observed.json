@@ -1,0 +1,18 @@
+{
+  "AstraLogin_PASS_MAX_DAYS": "99999",
+  "AstraLogin_PASS_MIN_DAYS": "0",
+  "AstraLogin_PASS_WARN_AGE": "7",
+  "AstraLogin_LOGIN_RETRIES": "5",
+  "AstraLogin_LOGIN_TIMEOUT": "60",
+  "AstraLogin_UMASK": "077",
+  "AstraLogin_ENCRYPT_METHOD": "SHA512",
+  "AstraLogin_PREVENT_NO_AUTH": "superuser",
+  "AstraHasPamFaillock": true,
+  "AstraHasPamPwquality": true,
+  "AstraHasPamAccess": true,
+  "AstraHasPamIssue": true,
+  "AstraHasPamLastlog": true,
+  "AstraHasParsecPam": true,
+  "AstraHasNullok": true,
+  "AstraAccessConfNonCommentRules": []
+}
